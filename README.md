@@ -1,4 +1,5 @@
-#Optimal character Recognition
+# Optimal character Recognition
+[VIDEO](https://www.canva.com/design/DAF_wmqBIZE/bFDq7_o5HxilOtPpa66DmQ/edit?utm_content=DAF_wmqBIZE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
 **Table of Content**
   - Team Details
