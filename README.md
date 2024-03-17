@@ -1,4 +1,5 @@
-#Optimal character Recognition
+# Optimal character Recognition
+[VIDEO](https://www.canva.com/design/DAF_wmqBIZE/bFDq7_o5HxilOtPpa66DmQ/edit?utm_content=DAF_wmqBIZE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
 **Table of Content**
   - Team Details
@@ -21,7 +22,13 @@
 
 
 ## Problem Statement  
-Implementing machine learning models for Optimal character Recognition our solution leverages machinelearning to automate accurate detection and monitoring of enhancing early diagonsis and intervention for improved
+Implementing machine learning models for Optimal character Recognition our solution leverages machinelearning to automate accurate detection and monitoring of enhancing early diagonsis and intervention for improved  \
+
+# Implementation
+
+![Screenshot (146)](https://github.com/carguyjagadeesh/OCR/assets/157731632/0f675525-5f6d-4ba4-9f7b-a212810ed9a5)
+![Screenshot (147)](https://github.com/carguyjagadeesh/OCR/assets/157731632/ff53d696-debe-4806-ab64-062209494fe9)
+![Screenshot (145)](https://github.com/carguyjagadeesh/OCR/assets/157731632/77dcf50b-a9c8-4995-8e56-853faf837822)
 
 ## Technical Stack  
 HTML
