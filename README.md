@@ -28,6 +28,11 @@ Implementing machine learning models for Optimal character Recognition our solut
 HTML
 PYTHON
 CSS
+# Implementation 
+![Screenshot (146)](https://github.com/carguyjagadeesh/OCR/assets/157731632/69ce4cad-718d-47e4-8255-5cb7a7bd459d)
+![Screenshot (147)](https://github.com/carguyjagadeesh/OCR/assets/157731632/21586763-b54c-4f2e-aa97-b205cca28ce4)
+![Screenshot (145)](https://github.com/carguyjagadeesh/OCR/assets/157731632/9d6f0b81-f3de-4b5b-8d92-c2f84d996361)
+
 
 ## Installation & Run
 + Clone this repository and unzip it.
