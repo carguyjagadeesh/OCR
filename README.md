@@ -1,4 +1,4 @@
-#
+#Optimal character Recognition
 
 **Table of Content**
   - Team Details
@@ -23,21 +23,10 @@
 ## Problem Statement  
 Implementing machine learning models for Optimal character Recognition our solution leverages machinelearning to automate accurate detection and monitoring of enhancing early diagonsis and intervention for improved
 
-
-
-## About the Project  
-In this project, the main objective is to check whether the person is having Diabetic Mellitus or Not.To predict the case whether or not we will be using feature like age, Glucose levels, Blood pressure etc.  
-
-
 ## Technical Stack  
 HTML
 PYTHON
 CSS
-
-
-## Implementation
-+ At early stage we will be collecting the information of the subject on Glucose levels, BMI, skin thickness, inslin level, blood pressure.
-+ Then we will run through linear regression model and get the prdiction
 
 ## Installation & Run
 + Clone this repository and unzip it.
